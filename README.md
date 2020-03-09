@@ -15,4 +15,4 @@ Developed for the study:
 Authors: Eero Ahtola, Susanna Stjerna, Anton Tokariev, Sampsa Vanhatalo
 
 Eero Ahtola. 2020.
-eero.ahtola@hus.fi
+eero.ahtola (at) hus.fi
